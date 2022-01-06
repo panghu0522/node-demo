@@ -1,13 +1,13 @@
+
+
 <template>
-$END$
+  <Layout>
+    Labels.vue
+  </Layout>
 </template>
 
-<script>
+<script lang="ts">
 export default {
-name: "Labels"
-}
+  name: 'Labels',
+};
 </script>
-
-<style scoped>
-
-</style>

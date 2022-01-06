@@ -1,10 +1,15 @@
 <template>
-$END$
+  <div>
+    <Layout>
+      shisssss
+    </Layout>
+  </div>
+
 </template>
 
 <script>
 export default {
-name: "Statistics"
+  name: "Statistics"
 }
 </script>
 

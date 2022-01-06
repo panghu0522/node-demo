@@ -9,8 +9,8 @@
 
 <script lang="ts">
 export default {
-  name: "Notes"
-}
+  name: 'Notes'
+};
 </script>
 
 <style lang="scss" scoped>
